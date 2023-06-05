@@ -1,2 +1,2 @@
-# shop-nodejs-aws-serverless
-Backend for E-Commerce application (Shop) created with NodeJS, AWS Cloud and Serverless architecture and Serverless framework
+# shop-nodejs-aws-backend
+Backend for E-Commerce application (Shop) created with NodeJS, AWS Cloud and Serverless architecture
